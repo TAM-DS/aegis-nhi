@@ -16,7 +16,7 @@ The **[Connected Investigation decision brief](docs/CONNECTED_INVESTIGATION.md#e
 
 Every recommendation links to evidence and preserves human authority. Missing session or host references remain explicit gaps. Review stays pending, and the system grants **no operational authority**.
 
-**Validation — November 9, 2026:** **135 tests and 46 subtests passed; lint passed.** See the [GitHub Actions validation run](https://github.com/TAM-DS/AEGIS-NHI/actions/runs/42645093976) and [merged implementation](https://github.com/TAM-DS/AEGIS-NHI/pull/7). These results validate the synthetic reference implementation, not production security effectiveness or business ROI.
+**Validation — November 9, 2026:** **135 tests and 46 subtests passed; lint passed.** See the [GitHub Actions validation run](https://github.com/TAM-DS/aegis-nhi/actions/runs/42645093976) and [merged implementation](https://github.com/TAM-DS/aegis-nhi/pull/7). These results validate the synthetic reference implementation, not production security effectiveness or business ROI.
 
 ---
 
